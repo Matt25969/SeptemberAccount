@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ddd560db-d688-45cf-86d4-20fcbf28406e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/SeptemberAccount.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SeptemberAccount.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/qa/intergration/AccountEndpointTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qa/intergration/AccountEndpointTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/qa/service/repository/AccountDBRepositoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qa/service/repository/AccountDBRepositoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,11 +24,23 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="java" value="3" />
+          <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JAVA" value="3" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="xml" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="XML" value="11" />
         </counts>
       </usages-collector>
     </session>
@@ -46,11 +56,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/qa/service/repository/AccountDBRepositoryTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="403">
               <caret line="72" lean-forward="true" selection-start-line="23" selection-end-line="72" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="236">
+              <caret line="139" column="21" selection-start-line="139" selection-start-column="21" selection-end-line="139" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -65,6 +84,7 @@
       <list>
         <option value="$PROJECT_DIR$/src/test/java/com/qa/intergration/AccountEndpointTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/qa/service/repository/AccountDBRepositoryTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -184,12 +204,12 @@
       <option name="presentableId" value="Default" />
       <updated>1542805162912</updated>
       <workItem from="1542805166443" duration="113000" />
-      <workItem from="1542892109799" duration="120000" />
+      <workItem from="1542892109799" duration="780000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="233000" />
+    <option name="totallyTimeSpent" value="893000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -250,6 +270,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="403">
           <caret line="72" lean-forward="true" selection-start-line="23" selection-end-line="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="139" column="21" selection-start-line="139" selection-start-column="21" selection-end-line="139" selection-end-column="21" />
         </state>
       </provider>
     </entry>
